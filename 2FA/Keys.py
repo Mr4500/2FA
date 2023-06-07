@@ -1,4 +1,4 @@
-account_sid = account_sid
-auth_token = auth_token
+account_sid = ACCOUNT-SID
+auth_token = AUTH_TOKEN
 
-twilio_number = twilio_number
+twilio_number = TWILIO_NUMBER
